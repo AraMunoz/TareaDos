@@ -24,6 +24,9 @@ public class Calculadora {
     double multiplicar(){
         return this.valorUno * this.valorDos;
     }
+    double division(){
+        return this.valorUno / this.valorDos;
+    }
     
 
     
