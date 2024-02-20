@@ -20,6 +20,10 @@ public class Calculadora {
     double resta(){
         return this.valorUno-this.valorDos;
     }
+
+    double multiplicar(){
+        return this.valorUno * this.valorDos;
+    }
     
 
     
